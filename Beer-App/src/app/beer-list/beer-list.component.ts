@@ -4,6 +4,7 @@ import { BeerService } from '../services/beer.service';
 import { AuthService } from '../services/auth.service';
 import { Router } from '@angular/router';
 
+
 @Component({
   selector: 'app-beer-list',
   templateUrl: './beer-list.component.html',
